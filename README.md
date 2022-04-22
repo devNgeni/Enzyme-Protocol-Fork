@@ -27,4 +27,4 @@ DISCLAIMER: This is a demo codebase from our private repositories for the above 
 
 Relevant Blockchains: [Ethereum]
 
-dApp Completion date: [29.03.2022]
+dApp Completion date: [March 29,2022]
